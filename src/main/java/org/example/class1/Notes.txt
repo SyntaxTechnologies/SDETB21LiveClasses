@@ -1,0 +1,22 @@
+What is java?
+    Java is a programming language
+    that we use to communicate the computer.
+Shortcuts:
+    To format the code on windows Ctrl+Alt+l
+    To format the code on Mac Cmd+Op+l
+    Ctrl+D to duplicate a line
+    Shift+F6 to refactor
+Variables?
+What Role DataTypes play?
+    They help Java understand what type of data we want to store.
+    They help Java reserve the space to store that info.
+    They Help Java understand what type of operations we might want to
+    perform on this data.
+NonPrimitive DataTypes
+    They are advance data types designed using basic primitive datatypes.
+    They are complex and can store complex data unlike primitive ones.
+Arithmetic operators:
+    These simply symbols that we use in java to perform an operation
+    + - * / %
+
+
