@@ -1,0 +1,16 @@
+Scanner input= new Scanner(System.in);
+Scanner => it's a data type just like we have other non-primitive data types
+like string we always need to have a datatype with variables in java.
+input=> input is just a variable name.
+new Scanner(System.in)=> creating the object of the scanner class. We create the
+object of class so that we can use the code from that class.
+System.in=> It tells the java that we want to capture the input from the keyboard.
+
+why are we learning about scanner?
+    so that we can learn how to handle the input from users.
+Switch statement:
+Pros:    1)its cleaner
+         2)Its Really Fast
+Cons:    1)It doesn't allow all the datatypes
+         2) Switch only checks for equality it does not support >,<,!=>,=
+         3) switch doesn't support logical operators || && !

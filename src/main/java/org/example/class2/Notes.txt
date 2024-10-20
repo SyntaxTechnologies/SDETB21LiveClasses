@@ -1,0 +1,13 @@
+TypeCasting:
+    It's a process of converting one data type to another datatype.
+When should we use TypesCasting?
+    TypesCasting is Moving data from one datatype to another datatype.
+    There are Two types of type casting.
+Relational Operator:
+    These operators help us compare things.
+    >
+    <
+    >=
+    <=
+    ==
+    !=
